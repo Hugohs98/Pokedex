@@ -1,2 +1,2 @@
 # Pokedex
- Pokedex criada usando HTML, CSS e JavaScript
+ Pokédex criada usando HTML, CSS, JavaScript e a PokéAPI https://pokeapi.co/ 
